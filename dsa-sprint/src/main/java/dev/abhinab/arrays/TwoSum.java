@@ -1,4 +1,4 @@
-package dev.abhinab.dsa_sprint;
+package dev.abhinab.arrays;
 
 import java.util.Arrays;
 import java.util.Map;

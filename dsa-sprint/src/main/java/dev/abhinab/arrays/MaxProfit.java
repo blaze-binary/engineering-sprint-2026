@@ -1,4 +1,4 @@
-package dev.abhinab.dsa_sprint;
+package dev.abhinab.arrays;
 
 public class MaxProfit {
     public static void main(String[] args) {
